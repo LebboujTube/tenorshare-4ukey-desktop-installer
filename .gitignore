@@ -1,0 +1,8 @@
+npm-debug.log*
+.next/
+.env.local
+*.log
+.cache/
+*.tgz
+coverage/
+yarn-error.log*
